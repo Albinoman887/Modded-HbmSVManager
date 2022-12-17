@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <item type="dimen" name="config_LightSensor_Deviation">0.1</item>
     <item type="dimen" name="config_compensation_filter_intercept">0.0</item>
+    <item type="dimen" name="config_compensation_lux_enter_threshold">10000.0</item>
     <item type="dimen" name="config_displayWhiteBalanceBrightnessFilterIntercept">10.0</item>
 </resources>

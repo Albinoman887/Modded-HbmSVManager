@@ -42,7 +42,7 @@
 
     move-result v0
 
-    const v1, 0x7f020001
+    const v1, 0x7f020003
 
     .line 60
     invoke-static {p1, v1}, Lcom/android/hbmsvmanager/filter/AmbientFilterFactory;->getFloat(Landroid/content/res/Resources;I)F
