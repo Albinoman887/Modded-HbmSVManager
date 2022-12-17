@@ -35,14 +35,14 @@
 .method public static createBrightnessFilter(Ljava/lang/String;Landroid/content/res/Resources;)Lcom/android/hbmsvmanager/filter/AmbientFilter;
     .locals 2
 
-    const v0, 0x10e004c
+    const v0, 0x7f040002
 
     .line 53
     invoke-virtual {p1, v0}, Landroid/content/res/Resources;->getInteger(I)I
 
     move-result v0
 
-    const v1, 0x10500ac
+    const v1, 0x7f020001
 
     .line 60
     invoke-static {p1, v1}, Lcom/android/hbmsvmanager/filter/AmbientFilterFactory;->getFloat(Landroid/content/res/Resources;I)F

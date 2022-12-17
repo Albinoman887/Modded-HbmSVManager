@@ -4,10 +4,12 @@
     <public type="array" name="config_compensation_images" id="0x7f010001" />
     <public type="array" name="config_compensation_thresholds" id="0x7f010002" />
     <public type="dimen" name="config_compensation_filter_intercept" id="0x7f020000" />
+    <public type="dimen" name="config_displayWhiteBalanceBrightnessFilterIntercept" id="0x7f020001" />
     <public type="id" name="compensation_image" id="0x7f030000" />
     <public type="id" name="compensation_image_second" id="0x7f030001" />
     <public type="integer" name="config_ambient_brightness_changed_debounce_ms" id="0x7f040000" />
     <public type="integer" name="config_compensation_filter_horizon" id="0x7f040001" />
+    <public type="integer" name="config_displayWhiteBalanceBrightnessFilterHorizon" id="0x7f040002" />
     <public type="layout" name="compensation_layout" id="0x7f050000" />
     <public type="string" name="config_hbmSvLightSensorType" id="0x7f060000" />
 </resources>
