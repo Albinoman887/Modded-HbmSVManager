@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: HbmSVManager.apk
+compressionType: false
+doNotCompress:
+- classes.dex
+- resources.arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '31'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  stamp-cert-sha256: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '2'
+  versionName: '1.0'

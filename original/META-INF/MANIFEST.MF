@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: soong_zip
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 6sbGcHOZja76wabH100Te/OvYdUj/SU2OK89kaAOCQc=
+
+Name: META-INF/proguard/androidx-annotations.pro
+SHA-256-Digest: ZPsrYDbTv6tHn2FcOMKd/OSAccw1ey0GKnECDWReXJ0=
+
+Name: classes.dex
+SHA-256-Digest: jMMSUrVVp6UC0r3iAQ67c+4Mhp7cQV3TdtlBJOPif0w=
+
+Name: res/layout/compensation_layout.xml
+SHA-256-Digest: PkHC70jr3dEuy6nA9QTdQEPPA/+04LBh8FH+e5jwDhk=
+
+Name: resources.arsc
+SHA-256-Digest: TavcfoOLGYujvscWPDVWbeqjMVNLBgDgR6eBenzvUFc=
+
+Name: stamp-cert-sha256
+SHA-256-Digest: HZwqAqk4Fv9ceuZPmq0Cwj3kncUUYg2xp61iTSqDZ5w=
+
